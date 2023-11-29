@@ -52,5 +52,5 @@ app.use(auth())
 
 app.use(routes);
 //http.listen(PORT, () => console.log(`Server is running at http://localhost:${PORT}...`));
-http.listen(PORT, () => console.log(`Server is running at https://52.53.204.177/:${PORT}...`));
+http.listen(PORT, () => console.log(`Server is running at https://52.53.242.153/:${PORT}...`));
 // app.listen(PORT, () => console.log(`Server is listening on port ${PORT}...`));
