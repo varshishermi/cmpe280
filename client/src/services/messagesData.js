@@ -1,5 +1,5 @@
 //const baseUrl = 'http://localhost:4000';
-const baseUrl = 'https://52.53.242.153/:4000';
+const baseUrl = 'https://52.53.242.153:4000';
 // import dotenv  from 'dotenv';
 // dotenv.config();
 // const baseUrl = process.env.SERVER_URL
